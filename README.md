@@ -9,4 +9,6 @@ CSE180 Final Project created through the use of ROS2 Gazeboo and C++
 
 
 # Compile and Run
+In order to succesfully run this project there are a couple of things needed before starting. 
+- Ubuntu 20.04 succesfully installed with packages.
 
