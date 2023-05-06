@@ -43,7 +43,7 @@ ros2 launch gazeboenvs tb3_simulation.launch.py
 ```
 **_NOTE:_** This can take up a couple of minutes to load up<br/>
 
-Since you sourced the environment in [compile](https://github.com/lpalafox17/cse180-final/blob/main/README.md#compiling)  in you can now  run:<br/> **_NOTE:_** You must first run gazeboo environment in seperate shell terminal before running this command.<br/>
+Since you sourced the environment in [compile](https://github.com/lpalafox17/cse180-final/blob/main/README.md#compiling) and you can now  run:<br/> **_NOTE:_** You must first run gazeboo environment in seperate shell terminal before running this command.<br/>
 `ros2 run navigation testnavigation`  
 
 
