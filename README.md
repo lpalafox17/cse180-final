@@ -15,5 +15,5 @@ In order to succesfully run this project there are a couple of things needed bef
 - Install Gazebo
 - Install nav2 packages
 - Install colcon
-More detailed install/instructions can be found in Stefano Carpin [1]:https://github.com/stefanocarpin/MRTP/wiki/Installation-Intructions/ "Installation Instructions"
+More detailed install/instructions can be found in Stefano Carpin ["Installation Instructions"](https://www.genome.gov/):https://github.com/stefanocarpin/MRTP/wiki/Installation-Intructions
 
