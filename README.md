@@ -28,7 +28,7 @@ source /opt/ros/foxy/setup.bash
 . install/local_setup.bash
 colcon build
 ```
-Since you sourced the environment you can now command run:
+Since you sourced the environment you can now command run:<br/>
 `ros2 run navigation testnavigation`  
 
 
