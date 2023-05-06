@@ -20,6 +20,7 @@ A more detailed installation instruction can be found in Stefano Carpin [Install
 
 # Compiling 
 `git clone https://github.com/lpalafox17/CSE180FINAL.git`  
+
 In terminal write:
 ```bash
 cd /CSE180FINAL/src
@@ -27,5 +28,7 @@ source /opt/ros/foxy/setup.bash
 . install/local_setup.bash
 colcon build
 ```
+Since you sourced the environment you can now command run:
+`ros2 run navigation testnavigation`  
 
 
