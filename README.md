@@ -14,6 +14,6 @@ In order to succesfully run this project there are a couple of things needed bef
 - Install ROS2 foxy
 - Install Gazebo
 - Install nav2 packages
-- Install colcon
+- Install colcon <br/>
 More detailed install/instructions can be found in Stefano Carpin [Installation Instructions](https://github.com/stefanocarpin/MRTP/wiki/Installation-Intructions)
 
