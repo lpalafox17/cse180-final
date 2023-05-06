@@ -1,1 +1,1 @@
-## *bold* CSE180 Final Project
+## **bold** CSE180 Final Project
