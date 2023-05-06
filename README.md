@@ -26,8 +26,6 @@ cd /CSE180FINAL/src
 source /opt/ros/foxy/setup.bash
 . install/local_setup.bash
 colcon build
-
-
 ```
 
 
