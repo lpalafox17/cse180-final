@@ -28,8 +28,10 @@ source /opt/ros/foxy/setup.bash
 . install/local_setup.bash
 colcon build
 ```
-# Running 
+# Run
 Since you sourced the environment you can now command run:<br/> **_NOTE:_** You must first run gazeboo environment in seperate shell terminal before running this command.<br/>
 `ros2 run navigation testnavigation`  
+
+To run Gazeboo environment open up a new shell terminal:
 
 
