@@ -19,5 +19,6 @@ In order to succesfully run this project there are a couple of things needed bef
 A more detailed installation instruction can be found in Stefano Carpin [Installation Instructions](https://github.com/stefanocarpin/MRTP/wiki/Installation-Intructions)
 
 # Compiling 
-'https://github.com/lpalafox17/cse180-final.git'
+`git clone https://github.com/lpalafox17/cse180-final.git`  
+
 
