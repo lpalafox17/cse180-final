@@ -32,6 +32,16 @@ colcon build
 Since you sourced the environment you can now command run:<br/> **_NOTE:_** You must first run gazeboo environment in seperate shell terminal before running this command.<br/>
 `ros2 run navigation testnavigation`  
 
-To run Gazeboo environment open up a new shell terminal:
+To run Gazeboo environment open up a new shell terminal and include:
+```bash
+cd /MRTP/MRTP
+source /opt/ros/foxy/setup.bash
+. install/local_setup.bash
+export TURTLEBOT3_MODEL=waffle
+export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:~/MRTP/MRTP/src/gazeboenvs/models
+ros2 launch gazeboenvs tb3_simulation.launch.py
+```
+**_NOTE:_** This can take up a couple of minutes to load up<br/>
+
 
 
