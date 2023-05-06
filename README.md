@@ -29,7 +29,7 @@ source /opt/ros/foxy/setup.bash
 colcon build
 ```
 #Running 
-Since you sourced the environment you can now command run:<br/> > **_NOTE:_**  The note content.
+Since you sourced the environment you can now command run: > **_NOTE:_** You must first run gazeboo environment in seperate shell terminal before running this command.<br/> 
 `ros2 run navigation testnavigation`  
 
 
